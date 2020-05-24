@@ -5,3 +5,4 @@ want to learn more and contribute more, it is like the new experience that makes
 any way, it is the first step.
 
 Celebrate the hello world project 
+it is like a blog that record my daily life 
